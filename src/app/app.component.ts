@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'gauravssnl';
+  aboutFlag = false;
+  setFlag(link) {
+    // alert(link);
+    if(link == "about") {
+      this.aboutFlag = true;
+    }
+  
+  }
 }
