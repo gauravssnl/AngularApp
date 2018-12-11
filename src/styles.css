@@ -2,7 +2,7 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 @import "~font-awesome/css/font-awesome.css";
 
-
+/*
 html, body {
 	padding:0;
 	background-image: url("/assets/j1.gif");
@@ -13,3 +13,6 @@ html, body {
 	background-size: cover;
         opacity: 0.97
 }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+*/

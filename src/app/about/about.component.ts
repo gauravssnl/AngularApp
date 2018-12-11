@@ -10,7 +10,7 @@ export class AboutComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log("ok");
+    //console.log("ok");
   }
 
 }
